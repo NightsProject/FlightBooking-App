@@ -1,0 +1,11 @@
+DAVAO:VIP:1700
+DAVAO:Regular:1300
+CEBU:VIP:2000
+CEBU:Regular:1500
+CDO:VIP:2300
+CDO:Regular:1800
+MANILA:VIP:3000
+MANILA:Regular:2600 
+[END]/This is the end of the file/[END]
+
+dot forget to add this to the readyfiles method in the FileRead.java

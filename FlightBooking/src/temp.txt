@@ -1,0 +1,12 @@
+ 
+/*
+// create new account
+File createInputFile = new File("src/flightbooking/data/accounts.txt");
+ FileWriter writeEnd = new FileWriter(createInputFile);
+                
+ writeEnd.write("END/this is the ending of the file");
+                
+ writeEnd.close();
+                
+//notify to create an account cause its first time running this app
+*/         
